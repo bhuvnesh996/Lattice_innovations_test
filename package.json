@@ -1,15 +1,14 @@
 {
   "name": "psychiatrists_api",
   "version": "1.0.0",
-  "description": "This project contains webservice for Lattice Invotations Pvt Ltd",
+  "description": "This web app contains webservice for Lattice Invotations",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sahil-pal/Lattice-Innovations-Assignment.git"
+    
   },
   "keywords": [
     "webservice"
@@ -17,9 +16,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sahil-pal/Lattice-Innovations-Assignment/issues"
+    
   },
-  "homepage": "https://github.com/sahil-pal/Lattice-Innovations-Assignment#readme",
+  "homepage": "",
   "dependencies": {
     "body-parser": "^1.20.1",
     "cors": "^2.8.5",
