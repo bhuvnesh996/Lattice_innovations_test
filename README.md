@@ -8,7 +8,7 @@
 4. run dump data queries from database table
 5. setup env file
 
-## make sure you add host and username and password of database
+## Make sure you add host and username and password of database in .env file and you must have nodemon  to run run npm start
 
 
 ## Dependencies/Technology used
